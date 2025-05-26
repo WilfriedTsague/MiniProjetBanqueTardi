@@ -1,0 +1,391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\banquetardi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|solutionrelative:banquetardi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40F6BD7-9B7B-4A29-AEEE-8FCAA97D690D}|CarteDeCredit.API\\CarteDeCredit.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\cartedecredit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C40F6BD7-9B7B-4A29-AEEE-8FCAA97D690D}|CarteDeCredit.API\\CarteDeCredit.API.csproj|solutionrelative:cartedecredit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\banquetardi\\migrations\\20250331222340_initialcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|solutionrelative:banquetardi\\migrations\\20250331222340_initialcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40F6BD7-9B7B-4A29-AEEE-8FCAA97D690D}|CarteDeCredit.API\\CarteDeCredit.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\cartedecredit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40F6BD7-9B7B-4A29-AEEE-8FCAA97D690D}|CarteDeCredit.API\\CarteDeCredit.API.csproj|solutionrelative:cartedecredit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40F6BD7-9B7B-4A29-AEEE-8FCAA97D690D}|CarteDeCredit.API\\CarteDeCredit.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\cartedecredit.api\\controllers\\cartecreditscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40F6BD7-9B7B-4A29-AEEE-8FCAA97D690D}|CarteDeCredit.API\\CarteDeCredit.API.csproj|solutionrelative:cartedecredit.api\\controllers\\cartecreditscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40F6BD7-9B7B-4A29-AEEE-8FCAA97D690D}|CarteDeCredit.API\\CarteDeCredit.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\cartedecredit.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C40F6BD7-9B7B-4A29-AEEE-8FCAA97D690D}|CarteDeCredit.API\\CarteDeCredit.API.csproj|solutionrelative:cartedecredit.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C6A298-2C51-4B0E-8E56-A0E4412B28B5}|Assurances.API\\Assurances.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\assurances.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88C6A298-2C51-4B0E-8E56-A0E4412B28B5}|Assurances.API\\Assurances.API.csproj|solutionrelative:assurances.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64498F09-45FC-4164-8FF0-D32F917D10A9}|CalculInterets.API\\CalculInterets.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\calculinterets.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64498F09-45FC-4164-8FF0-D32F917D10A9}|CalculInterets.API\\CalculInterets.API.csproj|solutionrelative:calculinterets.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C6A298-2C51-4B0E-8E56-A0E4412B28B5}|Assurances.API\\Assurances.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\assurances.api\\controllers\\contratassurancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C6A298-2C51-4B0E-8E56-A0E4412B28B5}|Assurances.API\\Assurances.API.csproj|solutionrelative:assurances.api\\controllers\\contratassurancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C6A298-2C51-4B0E-8E56-A0E4412B28B5}|Assurances.API\\Assurances.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\assurances.api\\data\\assurancescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C6A298-2C51-4B0E-8E56-A0E4412B28B5}|Assurances.API\\Assurances.API.csproj|solutionrelative:assurances.api\\data\\assurancescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\banquetardi\\services\\assurancesserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|solutionrelative:banquetardi\\services\\assurancesserviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64498F09-45FC-4164-8FF0-D32F917D10A9}|CalculInterets.API\\CalculInterets.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\calculinterets.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64498F09-45FC-4164-8FF0-D32F917D10A9}|CalculInterets.API\\CalculInterets.API.csproj|solutionrelative:calculinterets.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C6A298-2C51-4B0E-8E56-A0E4412B28B5}|Assurances.API\\Assurances.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\assurances.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C6A298-2C51-4B0E-8E56-A0E4412B28B5}|Assurances.API\\Assurances.API.csproj|solutionrelative:assurances.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\banquetardi\\controllers\\assurancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|solutionrelative:banquetardi\\controllers\\assurancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\banquetardi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|solutionrelative:banquetardi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\banquetardi\\services\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|solutionrelative:banquetardi\\services\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64498F09-45FC-4164-8FF0-D32F917D10A9}|CalculInterets.API\\CalculInterets.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\calculinterets.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64498F09-45FC-4164-8FF0-D32F917D10A9}|CalculInterets.API\\CalculInterets.API.csproj|solutionrelative:calculinterets.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C6A298-2C51-4B0E-8E56-A0E4412B28B5}|Assurances.API\\Assurances.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\assurances.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88C6A298-2C51-4B0E-8E56-A0E4412B28B5}|Assurances.API\\Assurances.API.csproj|solutionrelative:assurances.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\banquetardi\\interface\\iassurancesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|solutionrelative:banquetardi\\interface\\iassurancesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64498F09-45FC-4164-8FF0-D32F917D10A9}|CalculInterets.API\\CalculInterets.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\calculinterets.api\\calculinterets.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64498F09-45FC-4164-8FF0-D32F917D10A9}|CalculInterets.API\\CalculInterets.API.csproj|solutionrelative:calculinterets.api\\calculinterets.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64498F09-45FC-4164-8FF0-D32F917D10A9}|CalculInterets.API\\CalculInterets.API.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\calculinterets.api\\models\\interet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64498F09-45FC-4164-8FF0-D32F917D10A9}|CalculInterets.API\\CalculInterets.API.csproj|solutionrelative:calculinterets.api\\models\\interet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|e:\\bloc iv\\deploiement infonuagique\\tp 4\\tp3-deploiementinfonuagique\\banquetarditp\\banquetardi\\migrations\\20241026094237_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F51DD9-2DAE-44F9-AF30-08EF7AB2C27B}|BanqueTardi\\BanqueTardi.MVC.csproj|solutionrelative:banquetardi\\migrations\\20241026094237_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250331222340_initialCreated.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Migrations\\20250331222340_initialCreated.cs",
+              "RelativeDocumentMoniker": "BanqueTardi\\Migrations\\20250331222340_initialCreated.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Migrations\\20250331222340_initialCreated.cs",
+              "RelativeToolTip": "BanqueTardi\\Migrations\\20250331222340_initialCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:23:42.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CarteDeCredit.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CarteDeCredit.API\\appsettings.json",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CarteDeCredit.API\\appsettings.json",
+              "RelativeToolTip": "CarteDeCredit.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T20:22:49.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CalculInterets.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CalculInterets.API\\appsettings.json",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CalculInterets.API\\appsettings.json",
+              "RelativeToolTip": "CalculInterets.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T20:22:37.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContratAssurancesController.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\Assurances.API\\Controllers\\ContratAssurancesController.cs",
+              "RelativeDocumentMoniker": "Assurances.API\\Controllers\\ContratAssurancesController.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\Assurances.API\\Controllers\\ContratAssurancesController.cs",
+              "RelativeToolTip": "Assurances.API\\Controllers\\ContratAssurancesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:37:32.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CalculInterets.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CalculInterets.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CalculInterets.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CalculInterets.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T22:02:35.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\appsettings.json",
+              "RelativeDocumentMoniker": "BanqueTardi\\appsettings.json",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\appsettings.json",
+              "RelativeToolTip": "BanqueTardi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T21:35:37.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarteCreditsController.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CarteDeCredit.API\\Controllers\\CarteCreditsController.cs",
+              "RelativeDocumentMoniker": "CarteDeCredit.API\\Controllers\\CarteCreditsController.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CarteDeCredit.API\\Controllers\\CarteCreditsController.cs",
+              "RelativeToolTip": "CarteDeCredit.API\\Controllers\\CarteCreditsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:23:02.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CarteDeCredit.API\\Program.cs",
+              "RelativeDocumentMoniker": "CarteDeCredit.API\\Program.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CarteDeCredit.API\\Program.cs",
+              "RelativeToolTip": "CarteDeCredit.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:35:21.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\Assurances.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Assurances.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\Assurances.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Assurances.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T22:01:59.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\Assurances.API\\Program.cs",
+              "RelativeDocumentMoniker": "Assurances.API\\Program.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\Assurances.API\\Program.cs",
+              "RelativeToolTip": "Assurances.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:34:58.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CarteDeCredit.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CarteDeCredit.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CarteDeCredit.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CarteDeCredit.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T22:02:59.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\Assurances.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Assurances.API\\appsettings.json",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\Assurances.API\\appsettings.json",
+              "RelativeToolTip": "Assurances.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T21:40:32.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssurancesContext.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\Assurances.API\\Data\\AssurancesContext.cs",
+              "RelativeDocumentMoniker": "Assurances.API\\Data\\AssurancesContext.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\Assurances.API\\Data\\AssurancesContext.cs",
+              "RelativeToolTip": "Assurances.API\\Data\\AssurancesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:37:39.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssurancesController.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Controllers\\AssurancesController.cs",
+              "RelativeDocumentMoniker": "BanqueTardi\\Controllers\\AssurancesController.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Controllers\\AssurancesController.cs",
+              "RelativeToolTip": "BanqueTardi\\Controllers\\AssurancesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:44:16.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Services\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "BanqueTardi\\Services\\RedisCacheService.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Services\\RedisCacheService.cs",
+              "RelativeToolTip": "BanqueTardi\\Services\\RedisCacheService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T20:42:31.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssurancesServiceProxy.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Services\\AssurancesServiceProxy.cs",
+              "RelativeDocumentMoniker": "BanqueTardi\\Services\\AssurancesServiceProxy.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Services\\AssurancesServiceProxy.cs",
+              "RelativeToolTip": "BanqueTardi\\Services\\AssurancesServiceProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T22:23:57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CalculInterets.API\\Program.cs",
+              "RelativeDocumentMoniker": "CalculInterets.API\\Program.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CalculInterets.API\\Program.cs",
+              "RelativeToolTip": "CalculInterets.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:25:26.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Program.cs",
+              "RelativeDocumentMoniker": "BanqueTardi\\Program.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Program.cs",
+              "RelativeToolTip": "BanqueTardi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T22:06:12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAssurancesService.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Interface\\IAssurancesService.cs",
+              "RelativeDocumentMoniker": "BanqueTardi\\Interface\\IAssurancesService.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Interface\\IAssurancesService.cs",
+              "RelativeToolTip": "BanqueTardi\\Interface\\IAssurancesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T22:23:52.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CalculInterets.API.csproj",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CalculInterets.API\\CalculInterets.API.csproj",
+              "RelativeDocumentMoniker": "CalculInterets.API\\CalculInterets.API.csproj",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CalculInterets.API\\CalculInterets.API.csproj",
+              "RelativeToolTip": "CalculInterets.API\\CalculInterets.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T23:25:17.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Interet.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CalculInterets.API\\Models\\Interet.cs",
+              "RelativeDocumentMoniker": "CalculInterets.API\\Models\\Interet.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\CalculInterets.API\\Models\\Interet.cs",
+              "RelativeToolTip": "CalculInterets.API\\Models\\Interet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:50:27.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241026094237_Initial.cs",
+              "DocumentMoniker": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Migrations\\20241026094237_Initial.cs",
+              "RelativeDocumentMoniker": "BanqueTardi\\Migrations\\20241026094237_Initial.cs",
+              "ToolTip": "E:\\Bloc IV\\Deploiement Infonuagique\\TP 4\\tp3-deploiementInfonuagique\\BanqueTardiTP\\BanqueTardi\\Migrations\\20241026094237_Initial.cs",
+              "RelativeToolTip": "BanqueTardi\\Migrations\\20241026094237_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:34:24.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
